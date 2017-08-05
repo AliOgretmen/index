@@ -1,0 +1,26 @@
+.square{
+    width: 640px;
+    height: 640px;
+    border: 10px solid red;
+    padding: 0;
+    margin: 0 auto;
+}
+
+.siyah{
+    width: 80px;
+    height: 80px;
+    background-color: black;
+    float: left;
+    margin: 0px;
+    padding: 0px;
+    
+}
+.beyaz{
+    width: 80px;
+    height: 80px;
+    background-color: white;
+    float: left;
+    margin: 0;
+    padding: 0;
+  
+}
